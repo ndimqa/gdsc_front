@@ -136,4 +136,3 @@ Developed by:
 -   [Temirlan Zaykenov](https://github.com/Zaykenov)
 -   [Yernur Beisenbek](https://github.com/YernurBeisenbek)
 -   [Dinmukhamed Nuran](https://github.com/ndimqa)
-# gdsc_front
